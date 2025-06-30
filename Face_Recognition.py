@@ -11,7 +11,7 @@ import cv2
 import os
 
 
-
+#main part
 class face_recognition:
     def __init__(self,root):
         self.root = root
